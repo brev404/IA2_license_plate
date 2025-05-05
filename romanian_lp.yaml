@@ -1,8 +1,0 @@
-# IA2/romanian_lp.yaml
-path: D:/files/university/projects/IA2/data/processed # Absolute path to processed data root
-train: images/romanian/train  # Relative to 'path'
-val: images/romanian/valid    # Relative to 'path'
-
-# Classes
-names:
-  0: license_plate

@@ -1,8 +1,0 @@
-# IA2/spanish_lp.yaml
-path: D:/files/university/projects/IA2/data/processed # Absolute path to processed data root
-train: images/spanish/train   # Relative to 'path'
-val: images/spanish/test      # Using test split as validation, relative to 'path'
-
-# Classes
-names:
-  0: license_plate

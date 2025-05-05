@@ -1,0 +1,12 @@
+# IA2/yolo_romanian_lp.yaml
+# Point 'path' to the directory containing the specific format labels (yolo)
+path: D:/files/university/projects/IA2/data/processed/labels/yolo/
+
+# Point train/val relative to 'path' back up to the images
+# NOTE: ../../ assumes 'path' ends with a trailing slash implicitly or explicitly
+train: ../../images/romanian/train
+val: ../../images/romanian/valid
+
+# Classes
+names:
+  0: license_plate

@@ -13,16 +13,17 @@ PROJECT_ROOT = SCRIPT_DIR.parent.parent.resolve() # Assumes script is in Project
 
 # --- Select Dataset ---
 # Choose which dataset YAML to use (uncomment the one you want)
-# DATASET_YAML = PROJECT_ROOT / 'romanian_lp.yaml'
-DATASET_YAML = PROJECT_ROOT / 'spanish_lp.yaml'
+DATASET_YAML = PROJECT_ROOT / 'yolo_romanian_lp.yaml'
+# DATASET_YAML = PROJECT_ROOT / 'yolo_spanish_lp.yaml'
 # --- End Dataset Selection ---
 
 # --- Training Parameters ---
-MODEL_TO_TRAIN = 'yolov8n.pt'   # Start with pretrained weights (recommended)
+#MODEL_TO_TRAIN = 'yolov8n.pt'   # Start with pretrained weights (recommended) # yolov8n.pt first batch then yolov8s.pt second batch
+MODEL_TO_TRAIN = 'yolov8s.pt'   # Start with pretrained weights (recommended) # yolov8n.pt first batch then yolov8s.pt second batch
 EPOCHS = 50                     # Number of epochs to train for
 IMG_SIZE = 640                  # Image size (must match preprocessing)
 BATCH_SIZE = 16                 # Adjust based on your GPU memory (start lower if needed)
-PROJECT_NAME = 'LicensePlateDet' # Results saved under runs/detect/<PROJECT_NAME>_*
+PROJECT_NAME = 'results/LicensePlateDet' # Results saved under runs/detect/<PROJECT_NAME>_*
 # --- End Training Parameters ---
 
 # Automatically select device

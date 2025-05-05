@@ -1,0 +1,8 @@
+# IA2/yolo_spanish_lp.yaml
+path: D:/files/university/projects/IA2/data/processed/labels/yolo/
+train: ../../images/spanish/train
+val: ../../images/spanish/test # Using test split as validation
+
+# Classes
+names:
+  0: license_plate
