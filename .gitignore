@@ -1,0 +1,85 @@
+# --- Python ---
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# --- Python Virtual Environments ---
+# If you create your environment folder within the project (e.g., 'venv' or 'env')
+env/
+venv/
+.venv/
+ENV/
+*/ENV/
+*/venv/
+*/.venv/
+
+# --- Jupyter Notebook ---
+# Notebook checkpoints
+.ipynb_checkpoints
+
+# --- IDEs / Editors ---
+# VS Code
+.vscode/
+# PyCharm
+.idea/
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# --- Operating System Files ---
+# macOS
+.DS_Store
+# Windows
+Thumbs.db
+desktop.ini
+
+# --- Project Specific ---
+
+# Data Files - Ignore everything within the raw and processed data folders
+# IMPORTANT: Do NOT commit your datasets to Git!
+data/raw/**
+data/processed/**
+
+# --- Large Files / Models / Logs ---
+# Common model file extensions
+*.pt
+*.pth
+*.h5
+*.onnx
+*.pb
+*.pkl
+*.joblib
+
+# Log files
+*.log
+logs/
+
+# Databases (if any used locally)
+*.sqlite
+*.db
+
+# Temporary files
+*.tmp
+*~
