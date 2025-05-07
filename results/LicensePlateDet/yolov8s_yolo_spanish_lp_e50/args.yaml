@@ -13,7 +13,7 @@ cache: false
 device: cuda:0
 workers: 8
 project: results/LicensePlateDet
-name: yolov8s_yolo_spanish_lp_e50
+name: yolov8s_yolo_spanish_lp_e507
 exist_ok: false
 pretrained: true
 optimizer: auto
@@ -102,4 +102,4 @@ auto_augment: randaugment
 erasing: 0.4
 cfg: null
 tracker: botsort.yaml
-save_dir: results\LicensePlateDet\yolov8s_yolo_spanish_lp_e50
+save_dir: results\LicensePlateDet\yolov8s_yolo_spanish_lp_e507
