@@ -23,6 +23,7 @@ INTERMEDIATE_DATA_PATH = PROJECT_ROOT / 'data' / 'processed' / 'intermediate' / 
 OUTPUT_IMAGE_BASE = PROJECT_ROOT / 'data' / 'processed' / 'images'
 # Base path where YOLO label files will be saved
 OUTPUT_YOLO_LABEL_DIR = PROJECT_ROOT / 'data' / 'processed' / 'labels' / 'yolo'
+OUTPUT_YOLO_LABEL_DIR = PROJECT_ROOT / 'data' / 'processed' / 'labels' # for testing
 
 # --- Formatting Function (Corrected Version) ---
 def save_yolo_labels_from_intermediate(processed_data, output_label_dir_base):

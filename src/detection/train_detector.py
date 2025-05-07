@@ -13,8 +13,8 @@ PROJECT_ROOT = SCRIPT_DIR.parent.parent.resolve() # Assumes script is in Project
 
 # --- Select Dataset ---
 # Choose which dataset YAML to use (uncomment the one you want)
-DATASET_YAML = PROJECT_ROOT / 'yolo_romanian_lp.yaml'
-# DATASET_YAML = PROJECT_ROOT / 'yolo_spanish_lp.yaml'
+# DATASET_YAML = PROJECT_ROOT / 'yolo_romanian_lp.yaml'
+DATASET_YAML = PROJECT_ROOT / 'yolo_spanish_lp.yaml'
 # --- End Dataset Selection ---
 
 # --- Training Parameters ---

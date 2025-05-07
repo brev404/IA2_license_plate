@@ -1,5 +1,9 @@
-# IA2/yolo_spanish_lp.yaml
-path: D:/files/university/projects/IA2/data/processed/labels/yolo/
+# IA2/yolo_spanish_lp.yaml (Corrected Structure)
+
+# Point 'path' to the directory containing the specific format labels (yolo)
+path: D:/files/university/projects/IA2/data/processed/labels/yolo
+
+# Point train/val relative to 'path' back up to the images
 train: ../../images/spanish/train
 val: ../../images/spanish/test # Using test split as validation
 
