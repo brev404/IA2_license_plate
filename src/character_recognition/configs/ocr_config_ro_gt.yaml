@@ -1,0 +1,24 @@
+# character_recognition/configs/ocr_config_ro_gt.yaml
+experiment_name: "tesseract_romanian_gt_crops"
+dataset_name: "romanian" # "romanian" or "spanish"
+split: "valid" # "train", "valid", or "test" (relevant for detector crops)
+
+# --- Input Data Source ---
+# 'ground_truth' or 'detector_output'
+crop_source: "ground_truth"
+# If crop_source is 'detector_output', specify detector model used for cropping
+# detector_model_name: "yolov8s_yolo_romanian_lp_e50" # Matches a folder in detector_crops
+
+# --- Paths (Calculated by script based on above, or overridden) ---
+# input_cropped_plates_dir: # Will be data/ocr_input_data/ground_truth_crops/romanian/valid/
+# output_results_dir:       # Will be results/OCR_Experiments/tesseract_romanian_gt_crops/
+# results_json_file:        # results/OCR_Experiments/tesseract_romanian_gt_crops/ocr_results.json
+
+# --- OCR Engine Settings ---
+ocr_engine: "tesseract" # "tesseract", "easyocr", "custom_model_A"
+tesseract_config: "--oem 3 --psm 7" # Example for Tesseract
+tesseract_whitelist: "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
+# custom_model_path: "path/to/your/ocr_model.pt" # If using a custom model
+
+# --- Validation Settings ---
+plate_format_validation: "RO" # "RO", "ES", "GENERIC", "NONE"

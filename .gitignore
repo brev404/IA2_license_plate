@@ -61,6 +61,7 @@ desktop.ini
 # IMPORTANT: Do NOT commit your datasets to Git!
 data/raw/**
 data/processed/**
+data
 
 # --- Large Files / Models / Logs ---
 # Common model file extensions
@@ -83,3 +84,5 @@ logs/
 # Temporary files
 *.tmp
 *~
+
+mmdetection

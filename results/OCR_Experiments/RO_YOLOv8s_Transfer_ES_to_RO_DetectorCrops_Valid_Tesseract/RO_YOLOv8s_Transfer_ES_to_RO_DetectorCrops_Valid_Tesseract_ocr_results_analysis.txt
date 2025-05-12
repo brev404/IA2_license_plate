@@ -1,0 +1,10 @@
+
+--- OCR Results Analysis Summary ---
+Processed results from: ocr_results.json
+Validation Schema Used: RO
+--------------------------------------------------
+Total Plates Processed: 145
+--------------------------------------------------
+Plate Validation (Format: RO):
+  Valid Format: 5 (3.45%)
+  Invalid Format: 140 (96.55%)

@@ -1,0 +1,4912 @@
+[
+    {
+        "image_file": "00000_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AN-597*LK*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00014_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AN-07*6*YR",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00015_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AN-4*73B*W",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00016_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AN-14*1D*D",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00022_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AN-444**PC",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00024_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "40SSBDH",
+        "recognized_text_cleaned": "40SSBDH",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-05*1*DH",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00035_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "57287UPC",
+        "recognized_text_cleaned": "57287UPC",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-72*7*PP",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00035_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "T",
+        "recognized_text_cleaned": "T",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-879*KX*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00037_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "7B69BRN",
+        "recognized_text_cleaned": "7B69BRN",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-7*69*FN",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00038_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-*678*DP",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00038_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "PS",
+        "recognized_text_cleaned": "PS",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-*330*SZ",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00039_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "7",
+        "recognized_text_cleaned": "7",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-733**JW",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00075_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "470SPS",
+        "recognized_text_cleaned": "470SPS",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-M710*P*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00075_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "R7BRSLR",
+        "recognized_text_cleaned": "R7BRSLR",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-76*6F*N",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00076_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "12556RS4",
+        "recognized_text_cleaned": "12556RS4",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-8*58KS*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00077_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "2DCTT",
+        "recognized_text_cleaned": "2DCTT",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-82*7*TX",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00077_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "TKGLT",
+        "recognized_text_cleaned": "TKGLT",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-630*CX*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00091_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "CBLY",
+        "recognized_text_cleaned": "CBLY",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-8*55*GV",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00093_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "J2",
+        "recognized_text_cleaned": "J2",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-8*09JZ*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00093_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-0*66*RF",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00103_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "L",
+        "recognized_text_cleaned": "L",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-51*4*DG",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00104_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "HS0SV",
+        "recognized_text_cleaned": "HS0SV",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-80*8*YF",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00120_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "SSTHS8",
+        "recognized_text_cleaned": "SSTHS8",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-S1*58A*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00122_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "043FR",
+        "recognized_text_cleaned": "043FR",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-18*3FR*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00123_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-403*C*B",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00129_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "43794BSG",
+        "recognized_text_cleaned": "43794BSG",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-879**BG",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00132_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-036*DR*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00133_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "R",
+        "recognized_text_cleaned": "R",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-2*28*GG",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00139_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "3507261",
+        "recognized_text_cleaned": "3507261",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-*807*FT",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00149_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-88*0*CM",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00151_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-538*F*G",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00151_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "LP",
+        "recognized_text_cleaned": "LP",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-505**WW",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00151_plate_2.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "L",
+        "recognized_text_cleaned": "L",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-*417*HV",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00153_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "64038YP",
+        "recognized_text_cleaned": "64038YP",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-64*3*VP",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00153_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "JGPLS",
+        "recognized_text_cleaned": "JGPLS",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-45*9*SS",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00153_plate_2.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-M1*57P*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00155_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "0578382W",
+        "recognized_text_cleaned": "0578382W",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-57*3B*N",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00155_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "5F3",
+        "recognized_text_cleaned": "5F3",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-35*4*KX",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00159_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-M84*7*L",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00166_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "RLNFDK",
+        "recognized_text_cleaned": "RLNFDK",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-4*70K*V",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00169_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "BSUSHBRY",
+        "recognized_text_cleaned": "BSUSHBRY",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AN-509*C*F",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00169_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "HBST425",
+        "recognized_text_cleaned": "HBST425",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AN-89*0B*S",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00169_plate_2.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "PLSVRSTF",
+        "recognized_text_cleaned": "PLSVRSTF",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AN-24*1*DW",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00173_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "H3G38BRS",
+        "recognized_text_cleaned": "H3G38BRS",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-203**FJ",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00173_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "T4PM",
+        "recognized_text_cleaned": "T4PM",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-814*FP*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00180_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "R467HBPY",
+        "recognized_text_cleaned": "R467HBPY",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-767**PY",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00180_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "SGPTKBCS",
+        "recognized_text_cleaned": "SGPTKBCS",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-677**CX",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00181_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "SRSSFRR",
+        "recognized_text_cleaned": "SRSSFRR",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AN-9*13*RW",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00181_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AN-66*2*WN",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00186_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-M218*Z*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00187_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "H2020TY",
+        "recognized_text_cleaned": "H2020TY",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-202**BX",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00188_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-8*14G*Y",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00201_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "P30",
+        "recognized_text_cleaned": "P30",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-29*3*XX",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00201_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "SUTRN",
+        "recognized_text_cleaned": "SUTRN",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-44*3*PY",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00204_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "40462BPZ",
+        "recognized_text_cleaned": "40462BPZ",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-0*42*PZ",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00207_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "RH1GSDR",
+        "recognized_text_cleaned": "RH1GSDR",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AN-*166DW*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00211_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "NCSTTS",
+        "recognized_text_cleaned": "NCSTTS",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-48*3*TW",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00211_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-2*28L*L",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00215_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "YSF",
+        "recognized_text_cleaned": "YSF",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-344**RY",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00217_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "719523",
+        "recognized_text_cleaned": "719523",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-674**SZ",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00218_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "LULBNF",
+        "recognized_text_cleaned": "LULBNF",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-344**RY",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00220_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "4GSGNR",
+        "recognized_text_cleaned": "4GSGNR",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-019**NR",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00223_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "27599BCS",
+        "recognized_text_cleaned": "27599BCS",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-769**CS",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00227_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-504**CF",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00229_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "RLBZ2HYY",
+        "recognized_text_cleaned": "RLBZ2HYY",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-4*72*WY",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00236_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "L",
+        "recognized_text_cleaned": "L",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-*550CS*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00247_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "7M",
+        "recognized_text_cleaned": "7M",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-1*94JV*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00251_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "L",
+        "recognized_text_cleaned": "L",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-914**CP",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00256_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "02",
+        "recognized_text_cleaned": "02",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-12*4D*F",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00256_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-4*13*TB",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00263_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "6975598",
+        "recognized_text_cleaned": "6975598",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-*155*DW",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00266_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "VSUPY",
+        "recognized_text_cleaned": "VSUPY",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-78*8*MW",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00268_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "R2Y",
+        "recognized_text_cleaned": "R2Y",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-42*1*TY",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00270_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "PLS",
+        "recognized_text_cleaned": "PLS",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-*001H*H",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00290_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "FFK5T",
+        "recognized_text_cleaned": "FFK5T",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-422*K*J",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00293_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "SW8F28",
+        "recognized_text_cleaned": "SW8F28",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-80*8F*B",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00296_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "SF2Y",
+        "recognized_text_cleaned": "SF2Y",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-2*28*DN",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00298_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "BTKQGRQ",
+        "recognized_text_cleaned": "BTKQGRQ",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-47*0GW*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00300_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "CD49BMG",
+        "recognized_text_cleaned": "CD49BMG",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AN-494**MP",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00302_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "PD",
+        "recognized_text_cleaned": "PD",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AN-*774L*R",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00308_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "RSCL",
+        "recognized_text_cleaned": "RSCL",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AN-475*CL*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00310_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "SSS",
+        "recognized_text_cleaned": "SSS",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AN-554*CC*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00311_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "R",
+        "recognized_text_cleaned": "R",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AN-*767*BW",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00312_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AN-M717*Y*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00320_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "RL",
+        "recognized_text_cleaned": "RL",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-98*0*CY",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00326_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "T",
+        "recognized_text_cleaned": "T",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AN-077*KS*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00327_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "GLBBS",
+        "recognized_text_cleaned": "GLBBS",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AN-064**GS",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00337_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "S6SH",
+        "recognized_text_cleaned": "S6SH",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-0*66*NF",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00340_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-173**SM",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00348_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-706*DB*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00353_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "42558CMS",
+        "recognized_text_cleaned": "42558CMS",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-255*CM*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00353_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "BRDRPS",
+        "recognized_text_cleaned": "BRDRPS",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-29*3*XX",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00358_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "BD-999**TW",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00362_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-986**CP",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00374_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "HUBT",
+        "recognized_text_cleaned": "HUBT",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AN-0*08*DR",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00376_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "BN-01*6H*J",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00382_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AN-7*03*CC",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00384_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "5746BYR",
+        "recognized_text_cleaned": "5746BYR",
+        "is_valid_format": true,
+        "validation_schema": "ES",
+        "ground_truth_text": "AN-524**YR",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00386_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "B4CH5KVC",
+        "recognized_text_cleaned": "B4CH5KVC",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AN-46*5KV*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00390_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "G7R0R",
+        "recognized_text_cleaned": "G7R0R",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AN-61*7*DX",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00393_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "N",
+        "recognized_text_cleaned": "N",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "EN-R*366BD*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00393_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "T",
+        "recognized_text_cleaned": "T",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AN-799*LR*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00405_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "SGUBHLMZ",
+        "recognized_text_cleaned": "SGUBHLMZ",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AN-606**WZ",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00407_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "TS",
+        "recognized_text_cleaned": "TS",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AN-61*1*LW",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00414_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "NHGSPP",
+        "recognized_text_cleaned": "NHGSPP",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AN-014**PP",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00420_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "2",
+        "recognized_text_cleaned": "2",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AN-J21*4A*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00421_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "DN-*191L*L",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00440_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "ST",
+        "recognized_text_cleaned": "ST",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AN-6*78CN*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00440_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AN-82*2*GX",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00440_plate_2.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "B2P",
+        "recognized_text_cleaned": "B2P",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AN-84*3KP*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00441_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "B22BC",
+        "recognized_text_cleaned": "B22BC",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AN-82*2*GX",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00445_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "RGSSRHRL",
+        "recognized_text_cleaned": "RGSSRHRL",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AN-686*HF*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00447_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "99S8HH",
+        "recognized_text_cleaned": "99S8HH",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AN-9*16*HH",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00478_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "WL",
+        "recognized_text_cleaned": "WL",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AN-*264C*W",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00478_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AN-97*7*CY",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00479_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AN-737**YN",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00495_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "NBCGHGH",
+        "recognized_text_cleaned": "NBCGHGH",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AN-0*96H*H",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00505_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "DR9D7M",
+        "recognized_text_cleaned": "DR9D7M",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AN-2*32*ZM",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00509_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "S0ZZRRS",
+        "recognized_text_cleaned": "S0ZZRRS",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AN-077**WS",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00510_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "42001Y",
+        "recognized_text_cleaned": "42001Y",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AN-420**JY",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00511_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "HBNTY",
+        "recognized_text_cleaned": "HBNTY",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AN-686**MM",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00513_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "FSTTMY",
+        "recognized_text_cleaned": "FSTTMY",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AN-81*4*MW",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00523_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AN-M607*T*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00531_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "PDN",
+        "recognized_text_cleaned": "PDN",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AN-265*DW*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00533_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AN-MA*117*S",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00553_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "S",
+        "recognized_text_cleaned": "S",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-028**TC",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00553_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-699**RM",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00553_plate_2.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-27*6*PS",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00553_plate_3.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "TRUS",
+        "recognized_text_cleaned": "TRUS",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-050*D*L",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00553_plate_4.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-23*5DY*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00555_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-*199JX*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00555_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "S",
+        "recognized_text_cleaned": "S",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-0*05K*H",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00555_plate_2.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-649**XS",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00555_plate_3.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "T",
+        "recognized_text_cleaned": "T",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-6*36*NT",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00560_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-6*36*NT",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00560_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "244M",
+        "recognized_text_cleaned": "244M",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-78*0C*Z",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00560_plate_2.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "DRSF",
+        "recognized_text_cleaned": "DRSF",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-05*9*BF",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00573_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "457",
+        "recognized_text_cleaned": "457",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-965*H*G",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00577_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "8379LMR",
+        "recognized_text_cleaned": "8379LMR",
+        "is_valid_format": true,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-*379LM*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00578_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "65G8RBX",
+        "recognized_text_cleaned": "65G8RBX",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-656**BX",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00588_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "55LPT",
+        "recognized_text_cleaned": "55LPT",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-89*1*RZ",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00588_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-368**WT",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00589_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "N",
+        "recognized_text_cleaned": "N",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-57*3B*N",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00589_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-3*03KT*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00591_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-9*65*TB",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00591_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-22*2*DY",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00591_plate_2.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "L",
+        "recognized_text_cleaned": "L",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-99*9*DV",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00591_plate_3.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "PF",
+        "recognized_text_cleaned": "PF",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-*999*YM",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00591_plate_4.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-748*DB*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00591_plate_5.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "JSRBSP",
+        "recognized_text_cleaned": "JSRBSP",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-1*19*GR",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00606_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "T270FY",
+        "recognized_text_cleaned": "T270FY",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-4*70K*V",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00606_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "40C",
+        "recognized_text_cleaned": "40C",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-624*GX*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00611_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-32*9*DS",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00615_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-66*2*WN",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00617_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "S",
+        "recognized_text_cleaned": "S",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-16*0B*N",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00617_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-556*H*Y",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00617_plate_2.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-146*F*M",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00617_plate_3.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-82*8*TB",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00624_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "WS",
+        "recognized_text_cleaned": "WS",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-93*3B*P",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00644_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-M25*2*Y",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00644_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "L",
+        "recognized_text_cleaned": "L",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-222**WM",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00644_plate_2.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-6*03*BC",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00650_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "H",
+        "recognized_text_cleaned": "H",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-5*66*BP",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00650_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "S",
+        "recognized_text_cleaned": "S",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-99*4*XZ",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00654_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-422**ND",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00656_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-34*7*XB",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00662_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "B7RL",
+        "recognized_text_cleaned": "B7RL",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-59*2*WT",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00662_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-*853CZ*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00668_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "421878CS",
+        "recognized_text_cleaned": "421878CS",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-21*1*CS",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00669_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-499**NV",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00688_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "1795BYN",
+        "recognized_text_cleaned": "1795BYN",
+        "is_valid_format": true,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-179**VN",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00694_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "12383BG",
+        "recognized_text_cleaned": "12383BG",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-238**BG",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00698_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "T",
+        "recognized_text_cleaned": "T",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-478**FN",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00698_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-78*2*PT",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00716_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-*638*SN",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00716_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "T",
+        "recognized_text_cleaned": "T",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-838**VG",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00717_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "WLS",
+        "recognized_text_cleaned": "WLS",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-*638*SN",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00717_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "75",
+        "recognized_text_cleaned": "75",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-39*0*CR",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00722_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "TQVSRG",
+        "recognized_text_cleaned": "TQVSRG",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-70*8*RC",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00726_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "B",
+        "recognized_text_cleaned": "B",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AN-62*4L*R",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00741_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "TTCL4",
+        "recognized_text_cleaned": "TTCL4",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AN-459**VV",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00742_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "4T",
+        "recognized_text_cleaned": "4T",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AN-459**VV",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00751_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "TT",
+        "recognized_text_cleaned": "TT",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-77*1D*M",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00756_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-33*0*FM",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00762_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "B0SBGDP",
+        "recognized_text_cleaned": "B0SBGDP",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-03*4DP*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00763_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "HGGL",
+        "recognized_text_cleaned": "HGGL",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-7*14*SY",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00765_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "46584RSB",
+        "recognized_text_cleaned": "46584RSB",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-*584*SB",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00771_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "7",
+        "recognized_text_cleaned": "7",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "BD-336*LS*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00776_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "H3H004VR",
+        "recognized_text_cleaned": "H3H004VR",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-3*00*VP",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00786_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "R27734FRS",
+        "recognized_text_cleaned": "R27734FRS",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-477**BG",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00798_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "BD-211**NG",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00799_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-871**MC",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00804_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "ZSRZGRY",
+        "recognized_text_cleaned": "ZSRZGRY",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-73*7*RW",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00806_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "SGYRRS",
+        "recognized_text_cleaned": "SGYRRS",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-58*3J*J",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00808_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "S0464BS",
+        "recognized_text_cleaned": "S0464BS",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-046**TS",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00813_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "TP4",
+        "recognized_text_cleaned": "TP4",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-06*2*CZ",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00814_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "BD-99*8*PX",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00816_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "VSBGM",
+        "recognized_text_cleaned": "VSBGM",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-11*5*GM",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00817_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-686*HF*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00817_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "BD-36*7KW*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00818_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "SL",
+        "recognized_text_cleaned": "SL",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "BD-7*03C*M",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00831_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-360*K*J",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00831_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "BPTS4",
+        "recognized_text_cleaned": "BPTS4",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-36*3*RT",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00831_plate_2.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "B77",
+        "recognized_text_cleaned": "B77",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-767*HY*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00834_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "B14SBFS24",
+        "recognized_text_cleaned": "B14SBFS24",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-14*1FS*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00836_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-*665KZ*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00839_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-065**ZN",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00841_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "2663BGP",
+        "recognized_text_cleaned": "2663BGP",
+        "is_valid_format": true,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-268**GP",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00842_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-5*06*VH",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00842_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "7G",
+        "recognized_text_cleaned": "7G",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-7*83D*V",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00844_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "2H34BHY",
+        "recognized_text_cleaned": "2H34BHY",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-2*33*HX",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00848_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-439**FR",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00855_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "165915CFR",
+        "recognized_text_cleaned": "165915CFR",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-6*16CT*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00855_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "WGSBBK2",
+        "recognized_text_cleaned": "WGSBBK2",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-1*36*KZ",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00857_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "9659BHY",
+        "recognized_text_cleaned": "9659BHY",
+        "is_valid_format": true,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-659**HY",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00863_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "B97DBXP",
+        "recognized_text_cleaned": "B97DBXP",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-97*6*XT",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00867_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "4659593",
+        "recognized_text_cleaned": "4659593",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-699**DB",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00867_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "B477FD",
+        "recognized_text_cleaned": "B477FD",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-92*2FP*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00871_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "208W",
+        "recognized_text_cleaned": "208W",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-20*1HY*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00873_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "TSL6BYF",
+        "recognized_text_cleaned": "TSL6BYF",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-4*48*XT",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00873_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "P4J",
+        "recognized_text_cleaned": "P4J",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-77*0*CN",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00875_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "45253FW",
+        "recognized_text_cleaned": "45253FW",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-525*F*W",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00879_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-995**CX",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00879_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "PZKR7",
+        "recognized_text_cleaned": "PZKR7",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-325*KZ*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00883_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-77*5KV*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00886_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "BHBSKW",
+        "recognized_text_cleaned": "BHBSKW",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-8*89KW*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00886_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "BF",
+        "recognized_text_cleaned": "BF",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-2*52*YN",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00897_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "B545GHT",
+        "recognized_text_cleaned": "B545GHT",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-*545G*T",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00898_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "BSRTHS25",
+        "recognized_text_cleaned": "BSRTHS25",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-5*14*SZ",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00899_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "2584",
+        "recognized_text_cleaned": "2584",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-258**NM",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00901_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "TLS",
+        "recognized_text_cleaned": "TLS",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-865**NN",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00901_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "QL987HTS",
+        "recognized_text_cleaned": "QL987HTS",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-949**TS",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00901_plate_2.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "TTT",
+        "recognized_text_cleaned": "TTT",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-81*1*ZJ",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00903_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "B209DS",
+        "recognized_text_cleaned": "B209DS",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-8*09*DG",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00903_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-655*LT*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00908_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "RSSTTT",
+        "recognized_text_cleaned": "RSSTTT",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-46*5*MW",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00908_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "4628BJC",
+        "recognized_text_cleaned": "4628BJC",
+        "is_valid_format": true,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-862**JC",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00910_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "R",
+        "recognized_text_cleaned": "R",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-961*FY*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00915_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "8705S1C",
+        "recognized_text_cleaned": "8705S1C",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-420**JC",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00915_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "8HSC",
+        "recognized_text_cleaned": "8HSC",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-1*81H*B",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00929_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-32*1*HP",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00936_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "B6SS8FMN",
+        "recognized_text_cleaned": "B6SS8FMN",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-69*8*MM",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00948_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "SLN",
+        "recognized_text_cleaned": "SLN",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AN-2*27*WV",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00958_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "F",
+        "recognized_text_cleaned": "F",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-49*9C*V",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00958_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "PL",
+        "recognized_text_cleaned": "PL",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-9*83*BH",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00961_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AN-908*LM*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00963_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AN-*189J*H",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00967_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "SSUGHZZ",
+        "recognized_text_cleaned": "SSUGHZZ",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AN-87*4*ZZ",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00968_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "S69H5BXY",
+        "recognized_text_cleaned": "S69H5BXY",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AN-69*5*XV",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00976_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-09*6*NJ",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00976_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "1",
+        "recognized_text_cleaned": "1",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-5*59G*M",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00978_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "SRP",
+        "recognized_text_cleaned": "SRP",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-19*7*WP",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00979_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-5*30*FF",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00979_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "LS",
+        "recognized_text_cleaned": "LS",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-74*1*SX",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00979_plate_2.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "BF",
+        "recognized_text_cleaned": "BF",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-78*9GB*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00979_plate_3.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "LR",
+        "recognized_text_cleaned": "LR",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-65*3BX*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00988_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "PL",
+        "recognized_text_cleaned": "PL",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-7*97*DF",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00988_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "PTY",
+        "recognized_text_cleaned": "PTY",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-819**KY",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00988_plate_2.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "SSRHDL",
+        "recognized_text_cleaned": "SSRHDL",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-83*0*DT",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00991_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "3740FPD",
+        "recognized_text_cleaned": "3740FPD",
+        "is_valid_format": true,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-710**PD",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00991_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "5PPSU",
+        "recognized_text_cleaned": "5PPSU",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-88*5*DM",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "00994_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "4V960GB",
+        "recognized_text_cleaned": "4V960GB",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-11*0CT*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01000_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "B9008TXR",
+        "recognized_text_cleaned": "B9008TXR",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-944**XR",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01003_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "7933SHR",
+        "recognized_text_cleaned": "7933SHR",
+        "is_valid_format": true,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-3*33*HR",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01004_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "HS33FHR",
+        "recognized_text_cleaned": "HS33FHR",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-3*33*HR",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01009_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "FSSY",
+        "recognized_text_cleaned": "FSSY",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-855*JY*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01013_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "L2CCCKT",
+        "recognized_text_cleaned": "L2CCCKT",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-42*6*WT",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01016_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-702**SH",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01026_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "N7SCHY",
+        "recognized_text_cleaned": "N7SCHY",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-37*5C*Y",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01039_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "818PRX",
+        "recognized_text_cleaned": "818PRX",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "DD-81*8L*X",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01043_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-399*DV*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01050_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "44357",
+        "recognized_text_cleaned": "44357",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-13*7*HT",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01053_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-48*0L*J",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01063_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-04*4FF*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01065_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "BQ0GRTRS",
+        "recognized_text_cleaned": "BQ0GRTRS",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-904**TP",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01070_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-*066G*N",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01073_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "2399804B",
+        "recognized_text_cleaned": "2399804B",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-398**FB",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01077_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "MSY",
+        "recognized_text_cleaned": "MSY",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-747*GS*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01077_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "U42BW",
+        "recognized_text_cleaned": "U42BW",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-55*3*GM",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01077_plate_2.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "PRLF",
+        "recognized_text_cleaned": "PRLF",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-398**FB",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01082_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "PS",
+        "recognized_text_cleaned": "PS",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-4*04GG*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01082_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "SBFC6",
+        "recognized_text_cleaned": "SBFC6",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-BFMA*66*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01083_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "5883BPD",
+        "recognized_text_cleaned": "5883BPD",
+        "is_valid_format": true,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-588**PD",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01090_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "SC",
+        "recognized_text_cleaned": "SC",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-53*4LR*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01093_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "BS740LR",
+        "recognized_text_cleaned": "BS740LR",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-374**FX",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01094_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "49009BSK",
+        "recognized_text_cleaned": "49009BSK",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-9*09*SM",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01117_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-1*56*CW",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01121_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "BD-39*8J*T",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01122_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "779HFD",
+        "recognized_text_cleaned": "779HFD",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-779*F*D",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01127_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-42*2*TV",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01128_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "G0SDR",
+        "recognized_text_cleaned": "G0SDR",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-4*09DR*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01134_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "61BUS",
+        "recognized_text_cleaned": "61BUS",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-0*61B*S",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01138_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "ZSC0RYPH",
+        "recognized_text_cleaned": "ZSC0RYPH",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-73*0*VP",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01142_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "787PRN",
+        "recognized_text_cleaned": "787PRN",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-187**RN",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01146_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-5*10J*K",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01150_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-374**SY",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01151_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "BSSS2VV",
+        "recognized_text_cleaned": "BSSS2VV",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-88*5*VV",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01153_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-859**CM",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01154_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-10*6H*F",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01155_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "SSRN",
+        "recognized_text_cleaned": "SSRN",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-41*9JV*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01163_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "HBS62KV",
+        "recognized_text_cleaned": "HBS62KV",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-*367KY*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01170_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-31*3*WR",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01172_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "D",
+        "recognized_text_cleaned": "D",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-5*00*PZ",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01172_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-44*9KY*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01182_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "S02B",
+        "recognized_text_cleaned": "S02B",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-7*02*SC",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01191_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "FRFF",
+        "recognized_text_cleaned": "FRFF",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-*322K*Y",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01191_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "S",
+        "recognized_text_cleaned": "S",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-16*5J*B",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01201_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "5080SF",
+        "recognized_text_cleaned": "5080SF",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-80*0*XY",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01206_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "77",
+        "recognized_text_cleaned": "77",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-774**JC",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01209_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-2*01*HV",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01214_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "F2298L",
+        "recognized_text_cleaned": "F2298L",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-229*LR*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01215_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "R878G",
+        "recognized_text_cleaned": "R878G",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-8*28GZ*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01220_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-61*1JZ*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01220_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "2H",
+        "recognized_text_cleaned": "2H",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-526*HY*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01227_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-71*3HS*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01234_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "FLZ2HRKY",
+        "recognized_text_cleaned": "FLZ2HRKY",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-142**KY",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01236_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "2R0R2",
+        "recognized_text_cleaned": "2R0R2",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-2*04GZ*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01236_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-*198*HY",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01237_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-78*6KS*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01242_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "9963SHG",
+        "recognized_text_cleaned": "9963SHG",
+        "is_valid_format": true,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-988**HG",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01248_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "7S7R7SSB",
+        "recognized_text_cleaned": "7S7R7SSB",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-27*7*SB",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01251_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-51*9LL*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01260_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "46256BH",
+        "recognized_text_cleaned": "46256BH",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-8*58*TH",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01267_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-37*1BS*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01271_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-235*JZ*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01275_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-644**MH",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01276_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-2*25BS*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01288_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "S2H33K",
+        "recognized_text_cleaned": "S2H33K",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-2*33KT*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01306_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "BXY",
+        "recognized_text_cleaned": "BXY",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-045**XY",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01307_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-17*9KS*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01307_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "SBSBSRCR",
+        "recognized_text_cleaned": "SBSBSRCR",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-56*6*CR",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01319_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "R7609BCL",
+        "recognized_text_cleaned": "R7609BCL",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-74*9*DT",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01322_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "27HZGCS",
+        "recognized_text_cleaned": "27HZGCS",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-27*2*CS",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01339_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "98BULR",
+        "recognized_text_cleaned": "98BULR",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-*988JZ*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01341_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "TRL",
+        "recognized_text_cleaned": "TRL",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-*815JV*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01345_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "45GRCLYS",
+        "recognized_text_cleaned": "45GRCLYS",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-56*0LV*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01348_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-697**NY",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01363_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "95185BNR",
+        "recognized_text_cleaned": "95185BNR",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-51*5*MW",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01379_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-50*4*GH",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01379_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-264**DT",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01384_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-39*6G*J",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01395_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-018**SN",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01401_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "42989FRM",
+        "recognized_text_cleaned": "42989FRM",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-28*9F*M",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01404_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "5GU",
+        "recognized_text_cleaned": "5GU",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-59*8GC*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01414_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "TBSL",
+        "recognized_text_cleaned": "TBSL",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-11*6L*X",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01417_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "H",
+        "recognized_text_cleaned": "H",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-119**HD",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01423_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "4027LS",
+        "recognized_text_cleaned": "4027LS",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-10*7LS*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01423_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-235**HH",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01424_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-72*1LV*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01425_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "STTKSS",
+        "recognized_text_cleaned": "STTKSS",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-237*KS*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01433_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-912**FB",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01437_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "B4425B7P",
+        "recognized_text_cleaned": "B4425B7P",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-*135*ZP",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01438_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "STS",
+        "recognized_text_cleaned": "STS",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-62*1*DY",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01439_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "B2987B6K",
+        "recognized_text_cleaned": "B2987B6K",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-29*7*GK",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01445_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "BCZSSFNL",
+        "recognized_text_cleaned": "BCZSSFNL",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-8*85*DC",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01447_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "ST",
+        "recognized_text_cleaned": "ST",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-0*15*JK",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01454_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-*652F*M",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01457_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-07*2*FN",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01458_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "RBBLCY",
+        "recognized_text_cleaned": "RBBLCY",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-08*1*CV",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01459_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-*058*HJ",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01460_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-130*L*R",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01461_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-*881L*Y",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01465_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-SG18*8*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01466_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-26*4*HG",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01477_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-10*2K*S",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01487_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "PRSL",
+        "recognized_text_cleaned": "PRSL",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-*544*PT",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01489_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-839**PY",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01494_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-67*1*MP",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01495_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-M28*6Z*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01500_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "PLSBY",
+        "recognized_text_cleaned": "PLSBY",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-44*9*XX",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01500_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "BVLS9LHS",
+        "recognized_text_cleaned": "BVLS9LHS",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-118*LN*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01508_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "FFN2BFK",
+        "recognized_text_cleaned": "FFN2BFK",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-07*2*FN",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01512_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "RSGZSBR",
+        "recognized_text_cleaned": "RSGZSBR",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-90*6B*P",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01513_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "RTT",
+        "recognized_text_cleaned": "RTT",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-783**PT",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01515_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "B",
+        "recognized_text_cleaned": "B",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-543*FZ*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01517_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "74989BRK",
+        "recognized_text_cleaned": "74989BRK",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-49*9*RK",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01518_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "43998GMS",
+        "recognized_text_cleaned": "43998GMS",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-399**MG",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01519_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "405088",
+        "recognized_text_cleaned": "405088",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-050**DT",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01520_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-344**GS",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01523_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "65398K79",
+        "recognized_text_cleaned": "65398K79",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-58*8KZ*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01525_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-98*1*RR",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01528_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-677**XV",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01529_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "WH",
+        "recognized_text_cleaned": "WH",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-454*G*P",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01531_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-265*JV*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01533_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-0*03*MH",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01544_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "UL",
+        "recognized_text_cleaned": "UL",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-M*795X*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01544_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "WGTLBBC",
+        "recognized_text_cleaned": "WGTLBBC",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-8*77*BC",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01544_plate_2.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-92*9HY*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01546_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "W",
+        "recognized_text_cleaned": "W",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-694**XM",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01547_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "T78BJ2",
+        "recognized_text_cleaned": "T78BJ2",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-18*8*JZ",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01547_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "TRGLHUM",
+        "recognized_text_cleaned": "TRGLHUM",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-694**XM",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01560_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "67108GNG",
+        "recognized_text_cleaned": "67108GNG",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-710**WG",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01563_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "74SN",
+        "recognized_text_cleaned": "74SN",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-718**NT",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01565_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-08*6B*S",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01566_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-1*20*SP",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01567_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-55*1J*V",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01569_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-052*D*W",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01574_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-41*5L*M",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01576_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-M496**T",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01582_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-678**TP",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01585_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-8*75*RX",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01595_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "RS",
+        "recognized_text_cleaned": "RS",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-*220DP*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01596_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-52*5*JR",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01596_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-72*0FB*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01597_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "TL",
+        "recognized_text_cleaned": "TL",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-4*00*MB",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01597_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "G",
+        "recognized_text_cleaned": "G",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-9*15D*B",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01598_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-*975*PV",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01607_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-5*34*JT",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01621_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-3*39*RR",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01626_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-3*95*BB",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01626_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-53*3C*M",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01629_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-905*HX*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01629_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-005*DN*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01638_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-294**WV",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01638_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-9*59*SZ",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01641_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-488*D*P",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01646_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-99*3F*S",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01648_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "T76",
+        "recognized_text_cleaned": "T76",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-576**BY",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01651_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-266*J*Y",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01651_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-94*4*DZ",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01653_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-37*3*TD",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01658_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "76S",
+        "recognized_text_cleaned": "76S",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-M76*3*W",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01658_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-57*2H*C",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01662_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-379*GX*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01665_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-048**PJ",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01667_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-*944CN*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01667_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-146*L*J",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01669_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-82*6*BW",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01678_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-*012*PK",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01680_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-976*JY*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01684_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-0*51*FN",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01685_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "SRRRG",
+        "recognized_text_cleaned": "SRRRG",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-99*5*CB",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01687_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-70*0*VJ",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01688_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-50*4*JW",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01692_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-83*7DG*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01707_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-93*8GR*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01709_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-355**PZ",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01710_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "F",
+        "recognized_text_cleaned": "F",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-57*1JP*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01718_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-785*G*Z",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01719_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "T",
+        "recognized_text_cleaned": "T",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-218*GY*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01720_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-54*5J*X",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01736_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "SPPUSUNS",
+        "recognized_text_cleaned": "SPPUSUNS",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-729*JM*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01740_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "LUTCTS",
+        "recognized_text_cleaned": "LUTCTS",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-2*04*SV",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01744_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-813**CB",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01748_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-*216*KM",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01761_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-*220DP*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01769_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "97Z5RDM",
+        "recognized_text_cleaned": "97Z5RDM",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-37*5*GW",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01772_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "F320RN",
+        "recognized_text_cleaned": "F320RN",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-344**DN",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01782_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "W",
+        "recognized_text_cleaned": "W",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-1*48LN*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01783_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "RLH",
+        "recognized_text_cleaned": "RLH",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-98*1CN*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01787_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "FFBNF",
+        "recognized_text_cleaned": "FFBNF",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-M19*9*T",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01792_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "7454B",
+        "recognized_text_cleaned": "7454B",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-85*0*RR",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01796_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-71*9GH*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01803_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "S",
+        "recognized_text_cleaned": "S",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-2*06H*Z",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01809_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "JSP",
+        "recognized_text_cleaned": "JSP",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-3*08LP*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01817_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-41*5*CS",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01821_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-367**XP",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01829_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "3",
+        "recognized_text_cleaned": "3",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-2*20*HH",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01829_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-*214*YY",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01831_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "RPRHH",
+        "recognized_text_cleaned": "RPRHH",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-73*6*HH",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01832_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "BU",
+        "recognized_text_cleaned": "BU",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-73*6*HH",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01832_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-19*8D*S",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01841_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "SS",
+        "recognized_text_cleaned": "SS",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-676*JX*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01843_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-1*35JX*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01844_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "T",
+        "recognized_text_cleaned": "T",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-44*9GW*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01849_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-04*6*MT",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01856_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-1*75KN*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01858_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "BS7BL",
+        "recognized_text_cleaned": "BS7BL",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-37*4D*F",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01862_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "R",
+        "recognized_text_cleaned": "R",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-208*BY*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01864_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "C7DTF",
+        "recognized_text_cleaned": "C7DTF",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-237**TF",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01865_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "213HRNY",
+        "recognized_text_cleaned": "213HRNY",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-213**NY",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01867_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "YRLDRSFC",
+        "recognized_text_cleaned": "YRLDRSFC",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-*101FC*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01871_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "RCKSR",
+        "recognized_text_cleaned": "RCKSR",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-77*3*JJ",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01876_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "17589DNH",
+        "recognized_text_cleaned": "17589DNH",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AN-75*9LN*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01883_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-38*6*KS",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01892_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "SB",
+        "recognized_text_cleaned": "SB",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-47*4*JC",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01896_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-817**KY",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01898_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-43*9JN*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01902_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "2H86R8FS",
+        "recognized_text_cleaned": "2H86R8FS",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-M66*8*S",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01903_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-482**GB",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01910_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-8*55JY*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01921_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "DW",
+        "recognized_text_cleaned": "DW",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-401*DW*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01924_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-50*9*RB",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01932_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-4*63*PN",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01941_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-M175*Y*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01942_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "1S788",
+        "recognized_text_cleaned": "1S788",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-M978*Y*",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01945_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "LSHDSP",
+        "recognized_text_cleaned": "LSHDSP",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-715*D*F",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01950_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "5428VY",
+        "recognized_text_cleaned": "5428VY",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-542**VY",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01963_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "N8968D3Y",
+        "recognized_text_cleaned": "N8968D3Y",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-*968D*X",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01969_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "L",
+        "recognized_text_cleaned": "L",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-M075**V",
+        "is_exact_match": false
+    },
+    {
+        "image_file": "01974_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\spanish\\test",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "ES",
+        "ground_truth_text": "AD-287**SJ",
+        "is_exact_match": false
+    }
+]

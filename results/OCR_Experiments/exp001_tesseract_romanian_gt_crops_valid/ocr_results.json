@@ -1,0 +1,1050 @@
+[
+    {
+        "image_file": "dayride_type1_001.mp4#t=1055_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "T",
+        "recognized_text_cleaned": "T",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=1055_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "HEGE",
+        "recognized_text_cleaned": "HEGE",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=1058_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "4B271G6SB",
+        "recognized_text_cleaned": "4B271G6SB",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=1074_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "P21GSHI",
+        "recognized_text_cleaned": "P21GSHI",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=1085_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "PLI",
+        "recognized_text_cleaned": "PLI",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=1094_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "SL2T",
+        "recognized_text_cleaned": "SL2T",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=1094_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "ASB90TZI",
+        "recognized_text_cleaned": "ASB90TZI",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=1094_plate_2.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "MAGSE",
+        "recognized_text_cleaned": "MAGSE",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=1130_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "PS172WAWI",
+        "recognized_text_cleaned": "PS172WAWI",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=1130_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "JOIIE9",
+        "recognized_text_cleaned": "JOIIE9",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=1135_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "FS590F25",
+        "recognized_text_cleaned": "FS590F25",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=1141_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "4EBOY2P",
+        "recognized_text_cleaned": "4EBOY2P",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=1141_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=1174_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "SATA",
+        "recognized_text_cleaned": "SATA",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=1182_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "HBOPXEN4",
+        "recognized_text_cleaned": "HBOPXEN4",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=1182_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "LE",
+        "recognized_text_cleaned": "LE",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=1192_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "BOLXEN",
+        "recognized_text_cleaned": "BOLXEN",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=1192_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "FKEY",
+        "recognized_text_cleaned": "FKEY",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=1192_plate_2.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "ESW",
+        "recognized_text_cleaned": "ESW",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=1193_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "P807XENI",
+        "recognized_text_cleaned": "P807XENI",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=1193_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "LHERIXEX4",
+        "recognized_text_cleaned": "LHERIXEX4",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=1198_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "4BOLXEN",
+        "recognized_text_cleaned": "4BOLXEN",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=1198_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "S110KAY",
+        "recognized_text_cleaned": "S110KAY",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=1206_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "56O1XEN",
+        "recognized_text_cleaned": "56O1XEN",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=1206_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "CATRATE",
+        "recognized_text_cleaned": "CATRATE",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=1392_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=1396_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "FR95XMIF",
+        "recognized_text_cleaned": "FR95XMIF",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=1412_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "KINTS",
+        "recognized_text_cleaned": "KINTS",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=1456_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "TRS5XM1",
+        "recognized_text_cleaned": "TRS5XM1",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=1458_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=147_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "3574",
+        "recognized_text_cleaned": "3574",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=151_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "U",
+        "recognized_text_cleaned": "U",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=153_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=1549_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "T0",
+        "recognized_text_cleaned": "T0",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=163_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "4055",
+        "recognized_text_cleaned": "4055",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=172_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "PCH",
+        "recognized_text_cleaned": "PCH",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=201_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "1BOS94143",
+        "recognized_text_cleaned": "1BOS94143",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=203_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=282_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "HIE051AG",
+        "recognized_text_cleaned": "HIE051AG",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=293_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=37_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "H144MOS",
+        "recognized_text_cleaned": "H144MOS",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=413_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "14J",
+        "recognized_text_cleaned": "14J",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=413_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "SCIH",
+        "recognized_text_cleaned": "SCIH",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=465_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "WBS20WEWS",
+        "recognized_text_cleaned": "WBS20WEWS",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=467_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "B320WTW",
+        "recognized_text_cleaned": "B320WTW",
+        "is_valid_format": true,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=485_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "B427PHD",
+        "recognized_text_cleaned": "B427PHD",
+        "is_valid_format": true,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=491_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "T7",
+        "recognized_text_cleaned": "T7",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=491_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "TTT",
+        "recognized_text_cleaned": "TTT",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=515_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=515_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "MGETRCY7",
+        "recognized_text_cleaned": "MGETRCY7",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=517_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "BSLRCNI",
+        "recognized_text_cleaned": "BSLRCNI",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=517_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "B37SLY4",
+        "recognized_text_cleaned": "B37SLY4",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=522_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "PB6073",
+        "recognized_text_cleaned": "PB6073",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=522_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "BBSTALYS",
+        "recognized_text_cleaned": "BBSTALYS",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=555_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=555_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "T",
+        "recognized_text_cleaned": "T",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=581_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=589_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "SFL",
+        "recognized_text_cleaned": "SFL",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=594_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "8310VLV",
+        "recognized_text_cleaned": "8310VLV",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=595_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=596_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=604_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "EB310VLV",
+        "recognized_text_cleaned": "EB310VLV",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=607_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "EB310VLV",
+        "recognized_text_cleaned": "EB310VLV",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=616_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=676_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "T",
+        "recognized_text_cleaned": "T",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=684_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "SPATS",
+        "recognized_text_cleaned": "SPATS",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=695_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "FG3763",
+        "recognized_text_cleaned": "FG3763",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=751_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "BBRD7 AAC",
+        "recognized_text_cleaned": "BBRD7AAC",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=771_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "1BRO7AAC",
+        "recognized_text_cleaned": "1BRO7AAC",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=772_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "HBRO7AAC",
+        "recognized_text_cleaned": "HBRO7AAC",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=773_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "ESR07AAC",
+        "recognized_text_cleaned": "ESR07AAC",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=777_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "PIPROFAACI",
+        "recognized_text_cleaned": "PIPROFAACI",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=779_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "ET",
+        "recognized_text_cleaned": "ET",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=784_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "L",
+        "recognized_text_cleaned": "L",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=788_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "TE",
+        "recognized_text_cleaned": "TE",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=792_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "BSSTPR",
+        "recognized_text_cleaned": "BSSTPR",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=793_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "P77FR",
+        "recognized_text_cleaned": "P77FR",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=808_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "FBORITAG",
+        "recognized_text_cleaned": "FBORITAG",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=816_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=824_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=85_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "1899BN",
+        "recognized_text_cleaned": "1899BN",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=891_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "HB305C",
+        "recognized_text_cleaned": "HB305C",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=903_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=912_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "S75",
+        "recognized_text_cleaned": "S75",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_001.mp4#t=913_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "BCKI",
+        "recognized_text_cleaned": "BCKI",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_002.mp4#t=235_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "PEERPSCY",
+        "recognized_text_cleaned": "PEERPSCY",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_002.mp4#t=244_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "8B7SHCY",
+        "recognized_text_cleaned": "8B7SHCY",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_002.mp4#t=323_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_002.mp4#t=324_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_002.mp4#t=352_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "B68SPK",
+        "recognized_text_cleaned": "B68SPK",
+        "is_valid_format": true,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_002.mp4#t=352_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "EDHE15",
+        "recognized_text_cleaned": "EDHE15",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_002.mp4#t=528_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "PS",
+        "recognized_text_cleaned": "PS",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_002.mp4#t=528_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "BB63SPK",
+        "recognized_text_cleaned": "BB63SPK",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_002.mp4#t=643_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "GS9LPHS",
+        "recognized_text_cleaned": "GS9LPHS",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_002.mp4#t=657_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_002.mp4#t=75_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "SB014882",
+        "recognized_text_cleaned": "SB014882",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_002.mp4#t=792_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "BABBEPI",
+        "recognized_text_cleaned": "BABBEPI",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_002.mp4#t=817_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "EBS39PAR",
+        "recognized_text_cleaned": "EBS39PAR",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_003.mp4#t=100_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "HOBI4SSCE",
+        "recognized_text_cleaned": "HOBI4SSCE",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_003.mp4#t=296_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "TT",
+        "recognized_text_cleaned": "TT",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_003.mp4#t=320_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "B58DTK",
+        "recognized_text_cleaned": "B58DTK",
+        "is_valid_format": true,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_003.mp4#t=33_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_003.mp4#t=44_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_003.mp4#t=46_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_003.mp4#t=46_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_003.mp4#t=89_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "ZEA",
+        "recognized_text_cleaned": "ZEA",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_003.mp4#t=95_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "FSNU",
+        "recognized_text_cleaned": "FSNU",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "dayride_type1_003.mp4#t=97_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "HDASSCF",
+        "recognized_text_cleaned": "HDASSCF",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "nightride_type3_001.mp4#t=116_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "B96SXV",
+        "recognized_text_cleaned": "B96SXV",
+        "is_valid_format": true,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "nightride_type3_001.mp4#t=154_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "HESBEGY",
+        "recognized_text_cleaned": "HESBEGY",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "nightride_type3_001.mp4#t=155_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "HES1TBLGI",
+        "recognized_text_cleaned": "HES1TBLGI",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "nightride_type3_001.mp4#t=163_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "ASITBLG",
+        "recognized_text_cleaned": "ASITBLG",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "nightride_type3_001.mp4#t=2_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "HIROSRBGI",
+        "recognized_text_cleaned": "HIROSRBGI",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "nightride_type3_001.mp4#t=352_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "EB97TWD",
+        "recognized_text_cleaned": "EB97TWD",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "nightride_type3_001.mp4#t=352_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "LBSECKW",
+        "recognized_text_cleaned": "LBSECKW",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "nightride_type3_001.mp4#t=358_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "KB201TXM",
+        "recognized_text_cleaned": "KB201TXM",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "nightride_type3_001.mp4#t=386_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "nightride_type3_001.mp4#t=404_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "SEAN",
+        "recognized_text_cleaned": "SEAN",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "nightride_type3_001.mp4#t=45_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "EB276WOW",
+        "recognized_text_cleaned": "EB276WOW",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "nightride_type3_001.mp4#t=472_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "nightride_type3_001.mp4#t=472_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "nightride_type3_001.mp4#t=475_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "TENT",
+        "recognized_text_cleaned": "TENT",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "nightride_type3_001.mp4#t=475_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "HEV",
+        "recognized_text_cleaned": "HEV",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "nightride_type3_001.mp4#t=52_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "FB276WOWT",
+        "recognized_text_cleaned": "FB276WOWT",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "nightride_type3_001.mp4#t=543_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "nightride_type3_001.mp4#t=55_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "1827600",
+        "recognized_text_cleaned": "1827600",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "nightride_type3_001.mp4#t=582_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "FR",
+        "recognized_text_cleaned": "FR",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "nightride_type3_001.mp4#t=586_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "nightride_type3_001.mp4#t=64_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "BRULTRS",
+        "recognized_text_cleaned": "BRULTRS",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "nightride_type3_001.mp4#t=715_plate_0.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "G6967RH",
+        "recognized_text_cleaned": "G6967RH",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    },
+    {
+        "image_file": "nightride_type3_001.mp4#t=715_plate_1.jpg",
+        "source_directory": "data\\ocr_input_data\\ground_truth_crops\\romanian\\valid",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_schema": "RO"
+    }
+]

@@ -13,16 +13,20 @@ PROJECT_ROOT = SCRIPT_DIR.parent.parent.resolve() # Assumes script is in Project
 
 # --- Select Dataset ---
 # Choose which dataset YAML to use (uncomment the one you want)
-# DATASET_YAML = PROJECT_ROOT / 'yolo_romanian_lp.yaml'
-DATASET_YAML = PROJECT_ROOT / 'yolo_spanish_lp.yaml'
+DATASET_YAML = PROJECT_ROOT / 'yolo_romanian_lp.yaml'
+# DATASET_YAML = PROJECT_ROOT / 'yolo_spanish_lp.yaml'
+
 # --- End Dataset Selection ---
 
 # --- Training Parameters ---
+# MODEL_CONFIG_OR_WEIGHTS = 'yolov8n.yaml' # For training from scratch
+MODEL_TO_TRAIN = str(PROJECT_ROOT / 'results/LicensePlateDet/yolov8s_yolo_spanish_lp_e50/weights/best.pt')
+#MODEL_TO_TRAIN = 'yolov8n.yaml'   # Start with pretrained weights (recommended)
 #MODEL_TO_TRAIN = 'yolov8n.pt'   # Start with pretrained weights (recommended) # yolov8n.pt first batch then yolov8s.pt second batch
-MODEL_TO_TRAIN = 'yolov8s.pt'   # Start with pretrained weights (recommended) # yolov8n.pt first batch then yolov8s.pt second batch
-EPOCHS = 50                     # Number of epochs to train for
+# MODEL_TO_TRAIN = 'yolov8s.pt'   # Start with pretrained weights (recommended) # yolov8n.pt first batch then yolov8s.pt second batch
+EPOCHS = 30#50                     # Number of epochs to train for
 IMG_SIZE = 640                  # Image size (must match preprocessing)
-BATCH_SIZE = 16                 # Adjust based on your GPU memory (start lower if needed)
+BATCH_SIZE = 4                 # Adjust based on your GPU memory (start lower if needed)
 PROJECT_NAME = 'results/LicensePlateDet' # Results saved under runs/detect/<PROJECT_NAME>_*
 # --- End Training Parameters ---
 
@@ -60,7 +64,8 @@ def train():
             batch=BATCH_SIZE,
             project=PROJECT_NAME,   # Groups runs under this project name
             name=run_name,          # Specific name for this run's folder
-            exist_ok=False          # Prevents overwriting existing runs with the same name
+            exist_ok=False,          # Prevents overwriting existing runs with the same name
+            lr0 = 0.001 #1/10 of the initial learning rate
             # Add more hyperparameters if needed:
             # patience=50, # Early stopping
             # optimizer='AdamW',

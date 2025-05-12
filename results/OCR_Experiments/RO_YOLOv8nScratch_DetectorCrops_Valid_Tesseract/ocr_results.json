@@ -1,0 +1,2450 @@
+[
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=1055",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "B",
+        "recognized_text_cleaned": "B",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'B', Cleaned 'B'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            280,
+            346,
+            325,
+            358
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=1055",
+        "cropped_plate_identifier": "det_plate_1",
+        "recognized_text_raw": "TIT",
+        "recognized_text_cleaned": "TIT",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'TIT', Cleaned 'TIT'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            57,
+            339,
+            91,
+            349
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=1058",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "F41G71GSB",
+        "recognized_text_cleaned": "F41G71GSB",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'F41G71GSB', Cleaned 'F41G71GSB'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            262,
+            434,
+            355,
+            458
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=1074",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "821GSE",
+        "recognized_text_cleaned": "821GSE",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original '821GSE', Cleaned '821GSE'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            299,
+            394,
+            362,
+            410
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=1085",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "GASTIE",
+        "recognized_text_cleaned": "GASTIE",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'GASTIE', Cleaned 'GASTIE'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            292,
+            312,
+            332,
+            323
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=1094",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Input not a string or empty): ''",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            536,
+            351,
+            581,
+            364
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=1094",
+        "cropped_plate_identifier": "det_plate_1",
+        "recognized_text_raw": "TSB90TZII",
+        "recognized_text_cleaned": "TSB90TZII",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'TSB90TZII', Cleaned 'TSB90TZII'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            266,
+            407,
+            371,
+            435
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=1094",
+        "cropped_plate_identifier": "det_plate_2",
+        "recognized_text_raw": "GFSFARS",
+        "recognized_text_cleaned": "GFSFARS",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'GFSFARS', Cleaned 'GFSFARS'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            0,
+            323,
+            61,
+            339
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=1130",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "PB2WA",
+        "recognized_text_cleaned": "PB2WA",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'PB2WA', Cleaned 'PB2WA'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            205,
+            331,
+            272,
+            349
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=1130",
+        "cropped_plate_identifier": "det_plate_1",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Input not a string or empty): ''",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            450,
+            311,
+            487,
+            322
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=1135",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "AS8S0T21",
+        "recognized_text_cleaned": "AS8S0T21",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'AS8S0T21', Cleaned 'AS8S0T21'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            322,
+            347,
+            384,
+            364
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=1141",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "28GOT2I",
+        "recognized_text_cleaned": "28GOT2I",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original '28GOT2I', Cleaned '28GOT2I'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            281,
+            330,
+            329,
+            343
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=1141",
+        "cropped_plate_identifier": "det_plate_1",
+        "recognized_text_raw": "TRST",
+        "recognized_text_cleaned": "TRST",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'TRST', Cleaned 'TRST'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            488,
+            334,
+            525,
+            345
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=1174",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Input not a string or empty): ''",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            425,
+            334,
+            458,
+            344
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=1182",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "HBOLXEN",
+        "recognized_text_cleaned": "HBOLXEN",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'HBOLXEN', Cleaned 'HBOLXEN'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            269,
+            363,
+            358,
+            387
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=1182",
+        "cropped_plate_identifier": "det_plate_1",
+        "recognized_text_raw": "CY",
+        "recognized_text_cleaned": "CY",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'CY', Cleaned 'CY'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            508,
+            330,
+            551,
+            342
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=1192",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "BOLXEN",
+        "recognized_text_cleaned": "BOLXEN",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'BOLXEN', Cleaned 'BOLXEN'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            268,
+            363,
+            357,
+            388
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=1192",
+        "cropped_plate_identifier": "det_plate_1",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Input not a string or empty): ''",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            519,
+            332,
+            560,
+            344
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=1192",
+        "cropped_plate_identifier": "det_plate_2",
+        "recognized_text_raw": "E",
+        "recognized_text_cleaned": "E",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'E', Cleaned 'E'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            78,
+            311,
+            121,
+            323
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=1193",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "HBOVXEN",
+        "recognized_text_cleaned": "HBOVXEN",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'HBOVXEN', Cleaned 'HBOVXEN'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            271,
+            351,
+            349,
+            372
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=1193",
+        "cropped_plate_identifier": "det_plate_1",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Input not a string or empty): ''",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            519,
+            332,
+            560,
+            344
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=1198",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "BOTXEN",
+        "recognized_text_cleaned": "BOTXEN",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'BOTXEN', Cleaned 'BOTXEN'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            240,
+            408,
+            381,
+            445
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=1198",
+        "cropped_plate_identifier": "det_plate_1",
+        "recognized_text_raw": "BIEAOKA",
+        "recognized_text_cleaned": "BIEAOKA",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'BIEAOKA', Cleaned 'BIEAOKA'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            587,
+            353,
+            640,
+            370
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=1206",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "HBOLXEN",
+        "recognized_text_cleaned": "HBOLXEN",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'HBOLXEN', Cleaned 'HBOLXEN'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            298,
+            342,
+            363,
+            360
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=1206",
+        "cropped_plate_identifier": "det_plate_1",
+        "recognized_text_raw": "BIEAZEV",
+        "recognized_text_cleaned": "BIEAZEV",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'BIEAZEV', Cleaned 'BIEAZEV'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            579,
+            364,
+            632,
+            379
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=1392",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "STR95XMI",
+        "recognized_text_cleaned": "STR95XMI",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'STR95XMI', Cleaned 'STR95XMI'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            238,
+            429,
+            340,
+            456
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=1396",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "ER5XMIF",
+        "recognized_text_cleaned": "ER5XMIF",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'ER5XMIF', Cleaned 'ER5XMIF'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            263,
+            373,
+            320,
+            390
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=1412",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "SICESTY",
+        "recognized_text_cleaned": "SICESTY",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'SICESTY', Cleaned 'SICESTY'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            284,
+            325,
+            323,
+            336
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=1412",
+        "cropped_plate_identifier": "det_plate_1",
+        "recognized_text_raw": "PS",
+        "recognized_text_cleaned": "PS",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'PS', Cleaned 'PS'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            408,
+            303,
+            428,
+            309
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=1456",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "HTR55KH4",
+        "recognized_text_cleaned": "HTR55KH4",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'HTR55KH4', Cleaned 'HTR55KH4'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            27,
+            365,
+            83,
+            381
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=1456",
+        "cropped_plate_identifier": "det_plate_1",
+        "recognized_text_raw": "LJ",
+        "recognized_text_cleaned": "LJ",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'LJ', Cleaned 'LJ'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            278,
+            305,
+            303,
+            312
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=1458",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "T71M4",
+        "recognized_text_cleaned": "T71M4",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'T71M4', Cleaned 'T71M4'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            99,
+            337,
+            139,
+            348
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=1458",
+        "cropped_plate_identifier": "det_plate_1",
+        "recognized_text_raw": "CFT",
+        "recognized_text_cleaned": "CFT",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'CFT', Cleaned 'CFT'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            280,
+            308,
+            309,
+            316
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=147",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "FE124",
+        "recognized_text_cleaned": "FE124",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'FE124', Cleaned 'FE124'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            311,
+            306,
+            334,
+            313
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=151",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "C",
+        "recognized_text_cleaned": "C",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'C', Cleaned 'C'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            283,
+            306,
+            313,
+            315
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=153",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "41720",
+        "recognized_text_cleaned": "41720",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original '41720', Cleaned '41720'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            281,
+            308,
+            308,
+            316
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=1549",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Input not a string or empty): ''",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            283,
+            346,
+            326,
+            358
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=163",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "5157",
+        "recognized_text_cleaned": "5157",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original '5157', Cleaned '5157'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            448,
+            305,
+            475,
+            313
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=172",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Input not a string or empty): ''",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            428,
+            328,
+            462,
+            339
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=201",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "OO89GAI",
+        "recognized_text_cleaned": "OO89GAI",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Bad County 'OO') - Original 'OO89GAI', Cleaned 'OO89GAI'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            424,
+            348,
+            484,
+            364
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=203",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "GO89414F",
+        "recognized_text_cleaned": "GO89414F",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'GO89414F', Cleaned 'GO89414F'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            8,
+            394,
+            109,
+            420
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=282",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Input not a string or empty): ''",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            499,
+            461,
+            628,
+            496
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=293",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "1F05TACH",
+        "recognized_text_cleaned": "1F05TACH",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original '1F05TACH', Cleaned '1F05TACH'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            148,
+            409,
+            223,
+            429
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=37",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Input not a string or empty): ''",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            299,
+            343,
+            371,
+            363
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=413",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "PI",
+        "recognized_text_cleaned": "PI",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'PI', Cleaned 'PI'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            293,
+            335,
+            327,
+            345
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=465",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "B320WIWE",
+        "recognized_text_cleaned": "B320WIWE",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'B320WIWE', Cleaned 'B320WIWE'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            312,
+            367,
+            395,
+            389
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=467",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "FBS20WTWE",
+        "recognized_text_cleaned": "FBS20WTWE",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'FBS20WTWE', Cleaned 'FBS20WTWE'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            333,
+            399,
+            446,
+            428
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=467",
+        "cropped_plate_identifier": "det_plate_1",
+        "recognized_text_raw": "2W",
+        "recognized_text_cleaned": "2W",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original '2W', Cleaned '2W'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            506,
+            328,
+            541,
+            338
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=485",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "HB321PHD",
+        "recognized_text_cleaned": "HB321PHD",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Bad County 'HB') - Original 'HB321PHD', Cleaned 'HB321PHD'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            299,
+            435,
+            392,
+            459
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=491",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "P",
+        "recognized_text_cleaned": "P",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'P', Cleaned 'P'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            258,
+            333,
+            293,
+            343
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=491",
+        "cropped_plate_identifier": "det_plate_1",
+        "recognized_text_raw": "THIS",
+        "recognized_text_cleaned": "THIS",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'THIS', Cleaned 'THIS'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            74,
+            315,
+            107,
+            325
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=515",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Input not a string or empty): ''",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            243,
+            311,
+            275,
+            321
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=515",
+        "cropped_plate_identifier": "det_plate_1",
+        "recognized_text_raw": "BURCV",
+        "recognized_text_cleaned": "BURCV",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'BURCV', Cleaned 'BURCV'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            577,
+            352,
+            637,
+            369
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=517",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "EBBTACYI",
+        "recognized_text_cleaned": "EBBTACYI",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'EBBTACYI', Cleaned 'EBBTACYI'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            534,
+            343,
+            588,
+            358
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=517",
+        "cropped_plate_identifier": "det_plate_1",
+        "recognized_text_raw": "WEEE",
+        "recognized_text_cleaned": "WEEE",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'WEEE', Cleaned 'WEEE'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            229,
+            328,
+            276,
+            340
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=522",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "3B311ALY",
+        "recognized_text_cleaned": "3B311ALY",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original '3B311ALY', Cleaned '3B311ALY'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            150,
+            410,
+            283,
+            444
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=522",
+        "cropped_plate_identifier": "det_plate_1",
+        "recognized_text_raw": "0S",
+        "recognized_text_cleaned": "0S",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original '0S', Cleaned '0S'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            451,
+            323,
+            498,
+            337
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=555",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "L7TLY3",
+        "recognized_text_cleaned": "L7TLY3",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'L7TLY3', Cleaned 'L7TLY3'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            478,
+            316,
+            518,
+            327
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=581",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "3OVEY",
+        "recognized_text_cleaned": "3OVEY",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original '3OVEY', Cleaned '3OVEY'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            522,
+            333,
+            569,
+            347
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=589",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "LORRY",
+        "recognized_text_cleaned": "LORRY",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'LORRY', Cleaned 'LORRY'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            276,
+            324,
+            316,
+            336
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=594",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "8S0VLV",
+        "recognized_text_cleaned": "8S0VLV",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original '8S0VLV', Cleaned '8S0VLV'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            300,
+            335,
+            355,
+            350
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=595",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Input not a string or empty): ''",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            314,
+            355,
+            386,
+            375
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=596",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "AB310VLVI",
+        "recognized_text_cleaned": "AB310VLVI",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'AB310VLVI', Cleaned 'AB310VLVI'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            311,
+            390,
+            422,
+            420
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=604",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Input not a string or empty): ''",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            313,
+            406,
+            439,
+            442
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=607",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Input not a string or empty): ''",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            313,
+            413,
+            442,
+            448
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=616",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "G31VLYG",
+        "recognized_text_cleaned": "G31VLYG",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'G31VLYG', Cleaned 'G31VLYG'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            351,
+            345,
+            410,
+            360
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=676",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "ACS",
+        "recognized_text_cleaned": "ACS",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'ACS', Cleaned 'ACS'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            290,
+            324,
+            321,
+            334
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=684",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "LW",
+        "recognized_text_cleaned": "LW",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'LW', Cleaned 'LW'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            286,
+            316,
+            315,
+            324
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=695",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "BG7HEH4",
+        "recognized_text_cleaned": "BG7HEH4",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'BG7HEH4', Cleaned 'BG7HEH4'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            504,
+            339,
+            559,
+            354
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=751",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "BR G7AAC",
+        "recognized_text_cleaned": "BRG7AAC",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'BRG7AAC', Cleaned 'BRG7AAC'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            268,
+            338,
+            367,
+            364
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=771",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "LBRO7AAC",
+        "recognized_text_cleaned": "LBRO7AAC",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'LBRO7AAC', Cleaned 'LBRO7AAC'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            278,
+            342,
+            377,
+            368
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=772",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "7BRO7AAC",
+        "recognized_text_cleaned": "7BRO7AAC",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original '7BRO7AAC', Cleaned '7BRO7AAC'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            285,
+            339,
+            377,
+            363
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=773",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "FER07AAC",
+        "recognized_text_cleaned": "FER07AAC",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'FER07AAC', Cleaned 'FER07AAC'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            293,
+            335,
+            371,
+            356
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=777",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "PEROFAAC",
+        "recognized_text_cleaned": "PEROFAAC",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'PEROFAAC', Cleaned 'PEROFAAC'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            282,
+            321,
+            341,
+            337
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=779",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "Y",
+        "recognized_text_cleaned": "Y",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'Y', Cleaned 'Y'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            178,
+            308,
+            223,
+            320
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=779",
+        "cropped_plate_identifier": "det_plate_1",
+        "recognized_text_raw": "I",
+        "recognized_text_cleaned": "I",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'I', Cleaned 'I'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            302,
+            298,
+            326,
+            305
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=784",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "BE",
+        "recognized_text_cleaned": "BE",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'BE', Cleaned 'BE'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            250,
+            308,
+            281,
+            317
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=788",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "GS2EO",
+        "recognized_text_cleaned": "GS2EO",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'GS2EO', Cleaned 'GS2EO'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            250,
+            314,
+            289,
+            325
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=792",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "EBTTPR",
+        "recognized_text_cleaned": "EBTTPR",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'EBTTPR', Cleaned 'EBTTPR'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            271,
+            313,
+            308,
+            323
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=793",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "SPR",
+        "recognized_text_cleaned": "SPR",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'SPR', Cleaned 'SPR'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            268,
+            307,
+            309,
+            318
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=808",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "B61TAG",
+        "recognized_text_cleaned": "B61TAG",
+        "is_valid_format": true,
+        "validation_message": "Valid (Romanian Format) - Original 'B61TAG', Cleaned 'B61TAG'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            285,
+            371,
+            348,
+            389
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=816",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "P",
+        "recognized_text_cleaned": "P",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'P', Cleaned 'P'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            152,
+            332,
+            187,
+            342
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=824",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "H1B152F10",
+        "recognized_text_cleaned": "H1B152F10",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'H1B152F10', Cleaned 'H1B152F10'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            346,
+            432,
+            446,
+            460
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=85",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "1899BNX",
+        "recognized_text_cleaned": "1899BNX",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original '1899BNX', Cleaned '1899BNX'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            261,
+            328,
+            329,
+            347
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=891",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "TB3305C",
+        "recognized_text_cleaned": "TB3305C",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'TB3305C', Cleaned 'TB3305C'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            179,
+            374,
+            290,
+            404
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=903",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "YBE",
+        "recognized_text_cleaned": "YBE",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'YBE', Cleaned 'YBE'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            319,
+            301,
+            350,
+            310
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=903",
+        "cropped_plate_identifier": "det_plate_1",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Input not a string or empty): ''",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            185,
+            299,
+            209,
+            307
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=912",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "BFK",
+        "recognized_text_cleaned": "BFK",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'BFK', Cleaned 'BFK'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            303,
+            333,
+            343,
+            345
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=913",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "CS3J",
+        "recognized_text_cleaned": "CS3J",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'CS3J', Cleaned 'CS3J'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            277,
+            331,
+            318,
+            342
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_001.mp4#t=913",
+        "cropped_plate_identifier": "det_plate_1",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Input not a string or empty): ''",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            38,
+            309,
+            84,
+            322
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_002.mp4#t=235",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Input not a string or empty): ''",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            413,
+            395,
+            530,
+            426
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_002.mp4#t=244",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "2B75MCY",
+        "recognized_text_cleaned": "2B75MCY",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original '2B75MCY', Cleaned '2B75MCY'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            421,
+            398,
+            524,
+            424
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_002.mp4#t=323",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Input not a string or empty): ''",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            306,
+            327,
+            349,
+            340
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_002.mp4#t=324",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "BEK",
+        "recognized_text_cleaned": "BEK",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'BEK', Cleaned 'BEK'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            310,
+            338,
+            360,
+            353
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_002.mp4#t=352",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Input not a string or empty): ''",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            268,
+            430,
+            414,
+            468
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_002.mp4#t=352",
+        "cropped_plate_identifier": "det_plate_1",
+        "recognized_text_raw": "BOL",
+        "recognized_text_cleaned": "BOL",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'BOL', Cleaned 'BOL'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            26,
+            345,
+            83,
+            362
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_002.mp4#t=528",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "HB68SPK",
+        "recognized_text_cleaned": "HB68SPK",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Bad County 'HB') - Original 'HB68SPK', Cleaned 'HB68SPK'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            329,
+            393,
+            425,
+            420
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_002.mp4#t=528",
+        "cropped_plate_identifier": "det_plate_1",
+        "recognized_text_raw": "ES",
+        "recognized_text_cleaned": "ES",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'ES', Cleaned 'ES'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            21,
+            354,
+            73,
+            368
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_002.mp4#t=528",
+        "cropped_plate_identifier": "det_plate_2",
+        "recognized_text_raw": "MARLES",
+        "recognized_text_cleaned": "MARLES",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'MARLES', Cleaned 'MARLES'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            29,
+            329,
+            76,
+            343
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_002.mp4#t=643",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Input not a string or empty): ''",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            302,
+            372,
+            351,
+            387
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_002.mp4#t=657",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "LBSSR",
+        "recognized_text_cleaned": "LBSSR",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'LBSSR', Cleaned 'LBSSR'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            151,
+            348,
+            200,
+            362
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_002.mp4#t=657",
+        "cropped_plate_identifier": "det_plate_1",
+        "recognized_text_raw": "53",
+        "recognized_text_cleaned": "53",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original '53', Cleaned '53'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            31,
+            325,
+            63,
+            335
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_002.mp4#t=75",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "FSB014862",
+        "recognized_text_cleaned": "FSB014862",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'FSB014862', Cleaned 'FSB014862'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            50,
+            446,
+            157,
+            476
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_002.mp4#t=792",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Input not a string or empty): ''",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            305,
+            426,
+            382,
+            446
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_002.mp4#t=817",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Input not a string or empty): ''",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            393,
+            431,
+            545,
+            472
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_003.mp4#t=100",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "POB48SCRI",
+        "recognized_text_cleaned": "POB48SCRI",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'POB48SCRI', Cleaned 'POB48SCRI'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            327,
+            455,
+            459,
+            492
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_003.mp4#t=100",
+        "cropped_plate_identifier": "det_plate_1",
+        "recognized_text_raw": "ESE",
+        "recognized_text_cleaned": "ESE",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'ESE', Cleaned 'ESE'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            0,
+            379,
+            36,
+            395
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_003.mp4#t=296",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Input not a string or empty): ''",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            585,
+            344,
+            635,
+            359
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_003.mp4#t=320",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "B58DIK",
+        "recognized_text_cleaned": "B58DIK",
+        "is_valid_format": true,
+        "validation_message": "Valid (Romanian Format) - Original 'B58DIK', Cleaned 'B58DIK'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            313,
+            402,
+            439,
+            437
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_003.mp4#t=33",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "4273BCV",
+        "recognized_text_cleaned": "4273BCV",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original '4273BCV', Cleaned '4273BCV'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            34,
+            340,
+            93,
+            357
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_003.mp4#t=44",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "FE",
+        "recognized_text_cleaned": "FE",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'FE', Cleaned 'FE'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            411,
+            312,
+            455,
+            324
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_003.mp4#t=44",
+        "cropped_plate_identifier": "det_plate_1",
+        "recognized_text_raw": "AST",
+        "recognized_text_cleaned": "AST",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'AST', Cleaned 'AST'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            102,
+            348,
+            140,
+            360
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_003.mp4#t=44",
+        "cropped_plate_identifier": "det_plate_2",
+        "recognized_text_raw": "LT",
+        "recognized_text_cleaned": "LT",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'LT', Cleaned 'LT'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            332,
+            326,
+            358,
+            334
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_003.mp4#t=46",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "S99STK",
+        "recognized_text_cleaned": "S99STK",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Bad County 'S') - Original 'S99STK', Cleaned 'S99STK'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            470,
+            336,
+            554,
+            359
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_003.mp4#t=46",
+        "cropped_plate_identifier": "det_plate_1",
+        "recognized_text_raw": "FEI",
+        "recognized_text_cleaned": "FEI",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'FEI', Cleaned 'FEI'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            321,
+            342,
+            359,
+            354
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_003.mp4#t=89",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "TE",
+        "recognized_text_cleaned": "TE",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'TE', Cleaned 'TE'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            279,
+            314,
+            319,
+            325
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_003.mp4#t=95",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "TMJ",
+        "recognized_text_cleaned": "TMJ",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'TMJ', Cleaned 'TMJ'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            70,
+            381,
+            133,
+            400
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_003.mp4#t=95",
+        "cropped_plate_identifier": "det_plate_1",
+        "recognized_text_raw": "FT",
+        "recognized_text_cleaned": "FT",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'FT', Cleaned 'FT'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            338,
+            330,
+            373,
+            340
+        ]
+    },
+    {
+        "image_file_original": "dayride_type1_003.mp4#t=97",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "HDBASSCRI",
+        "recognized_text_cleaned": "HDBASSCRI",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'HDBASSCRI', Cleaned 'HDBASSCRI'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            336,
+            383,
+            405,
+            403
+        ]
+    },
+    {
+        "image_file_original": "nightride_type3_001.mp4#t=116",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "HBS6SXV",
+        "recognized_text_cleaned": "HBS6SXV",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'HBS6SXV', Cleaned 'HBS6SXV'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            194,
+            366,
+            277,
+            388
+        ]
+    },
+    {
+        "image_file_original": "nightride_type3_001.mp4#t=154",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "H911BLGI",
+        "recognized_text_cleaned": "H911BLGI",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'H911BLGI', Cleaned 'H911BLGI'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            261,
+            324,
+            327,
+            342
+        ]
+    },
+    {
+        "image_file_original": "nightride_type3_001.mp4#t=155",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "ASTBLG",
+        "recognized_text_cleaned": "ASTBLG",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'ASTBLG', Cleaned 'ASTBLG'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            243,
+            355,
+            333,
+            380
+        ]
+    },
+    {
+        "image_file_original": "nightride_type3_001.mp4#t=163",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "BSBLS",
+        "recognized_text_cleaned": "BSBLS",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'BSBLS', Cleaned 'BSBLS'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            263,
+            342,
+            339,
+            363
+        ]
+    },
+    {
+        "image_file_original": "nightride_type3_001.mp4#t=163",
+        "cropped_plate_identifier": "det_plate_1",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Input not a string or empty): ''",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            450,
+            263,
+            483,
+            273
+        ]
+    },
+    {
+        "image_file_original": "nightride_type3_001.mp4#t=2",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "STROSRBG",
+        "recognized_text_cleaned": "STROSRBG",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'STROSRBG', Cleaned 'STROSRBG'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            349,
+            361,
+            469,
+            394
+        ]
+    },
+    {
+        "image_file_original": "nightride_type3_001.mp4#t=352",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "8S2CRY",
+        "recognized_text_cleaned": "8S2CRY",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original '8S2CRY', Cleaned '8S2CRY'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            162,
+            297,
+            203,
+            308
+        ]
+    },
+    {
+        "image_file_original": "nightride_type3_001.mp4#t=352",
+        "cropped_plate_identifier": "det_plate_1",
+        "recognized_text_raw": "HB97TWD",
+        "recognized_text_cleaned": "HB97TWD",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Bad County 'HB') - Original 'HB97TWD', Cleaned 'HB97TWD'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            328,
+            449,
+            471,
+            485
+        ]
+    },
+    {
+        "image_file_original": "nightride_type3_001.mp4#t=358",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "KB201TXM",
+        "recognized_text_cleaned": "KB201TXM",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Bad County 'KB') - Original 'KB201TXM', Cleaned 'KB201TXM'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            0,
+            344,
+            74,
+            364
+        ]
+    },
+    {
+        "image_file_original": "nightride_type3_001.mp4#t=358",
+        "cropped_plate_identifier": "det_plate_1",
+        "recognized_text_raw": "12B97TWO",
+        "recognized_text_cleaned": "12B97TWO",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original '12B97TWO', Cleaned '12B97TWO'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            318,
+            466,
+            474,
+            507
+        ]
+    },
+    {
+        "image_file_original": "nightride_type3_001.mp4#t=386",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Input not a string or empty): ''",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            360,
+            332,
+            423,
+            349
+        ]
+    },
+    {
+        "image_file_original": "nightride_type3_001.mp4#t=404",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Input not a string or empty): ''",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            279,
+            303,
+            329,
+            317
+        ]
+    },
+    {
+        "image_file_original": "nightride_type3_001.mp4#t=45",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "4B276WOW",
+        "recognized_text_cleaned": "4B276WOW",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original '4B276WOW', Cleaned '4B276WOW'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            264,
+            324,
+            395,
+            359
+        ]
+    },
+    {
+        "image_file_original": "nightride_type3_001.mp4#t=472",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Input not a string or empty): ''",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            557,
+            327,
+            615,
+            343
+        ]
+    },
+    {
+        "image_file_original": "nightride_type3_001.mp4#t=472",
+        "cropped_plate_identifier": "det_plate_1",
+        "recognized_text_raw": "BTSAFLNS",
+        "recognized_text_cleaned": "BTSAFLNS",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'BTSAFLNS', Cleaned 'BTSAFLNS'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            269,
+            303,
+            317,
+            316
+        ]
+    },
+    {
+        "image_file_original": "nightride_type3_001.mp4#t=475",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Input not a string or empty): ''",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            354,
+            301,
+            391,
+            312
+        ]
+    },
+    {
+        "image_file_original": "nightride_type3_001.mp4#t=475",
+        "cropped_plate_identifier": "det_plate_1",
+        "recognized_text_raw": "8T",
+        "recognized_text_cleaned": "8T",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original '8T', Cleaned '8T'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            585,
+            321,
+            631,
+            333
+        ]
+    },
+    {
+        "image_file_original": "nightride_type3_001.mp4#t=52",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "BB275W0W",
+        "recognized_text_cleaned": "BB275W0W",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'BB275W0W', Cleaned 'BB275W0W'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            293,
+            284,
+            354,
+            300
+        ]
+    },
+    {
+        "image_file_original": "nightride_type3_001.mp4#t=543",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Input not a string or empty): ''",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            298,
+            350,
+            413,
+            381
+        ]
+    },
+    {
+        "image_file_original": "nightride_type3_001.mp4#t=55",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Input not a string or empty): ''",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            373,
+            274,
+            432,
+            290
+        ]
+    },
+    {
+        "image_file_original": "nightride_type3_001.mp4#t=582",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "5GS",
+        "recognized_text_cleaned": "5GS",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original '5GS', Cleaned '5GS'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            302,
+            284,
+            355,
+            299
+        ]
+    },
+    {
+        "image_file_original": "nightride_type3_001.mp4#t=586",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "FB956SV",
+        "recognized_text_cleaned": "FB956SV",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'FB956SV', Cleaned 'FB956SV'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            280,
+            357,
+            408,
+            389
+        ]
+    },
+    {
+        "image_file_original": "nightride_type3_001.mp4#t=64",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Input not a string or empty): ''",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            315,
+            343,
+            387,
+            363
+        ]
+    },
+    {
+        "image_file_original": "nightride_type3_001.mp4#t=715",
+        "cropped_plate_identifier": "det_plate_0",
+        "recognized_text_raw": "",
+        "recognized_text_cleaned": "",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Input not a string or empty): ''",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            231,
+            365,
+            321,
+            388
+        ]
+    },
+    {
+        "image_file_original": "nightride_type3_001.mp4#t=715",
+        "cropped_plate_identifier": "det_plate_1",
+        "recognized_text_raw": "BS5DUU4",
+        "recognized_text_cleaned": "BS5DUU4",
+        "is_valid_format": false,
+        "validation_message": "Invalid (Romanian - Pattern Mismatch) - Original 'BS5DUU4', Cleaned 'BS5DUU4'",
+        "validation_schema": "RO",
+        "source_type": "detector_output",
+        "detector_model_used": "best.pt",
+        "box_coordinates_on_640x640_image": [
+            559,
+            284,
+            608,
+            298
+        ]
+    }
+]
