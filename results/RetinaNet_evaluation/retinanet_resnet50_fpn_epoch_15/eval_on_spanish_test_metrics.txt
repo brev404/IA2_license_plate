@@ -1,0 +1,13 @@
+RetinaNet COCO Evaluation Metrics:
+AP_IoU_0.50_0.95_area_all_maxDets_100: 0.6807
+AP_IoU_0.50_area_all_maxDets_100: 0.9478
+AP_IoU_0.75_area_all_maxDets_100: 0.8275
+AP_IoU_0.50_0.95_area_small_maxDets_100: 0.5956
+AP_IoU_0.50_0.95_area_medium_maxDets_100: 0.7708
+AP_IoU_0.50_0.95_area_large_maxDets_100: 0.6249
+AR_IoU_0.50_0.95_area_all_maxDets_1: 0.6187
+AR_IoU_0.50_0.95_area_all_maxDets_10: 0.7336
+AR_IoU_0.50_0.95_area_all_maxDets_100: 0.7369
+AR_IoU_0.50_0.95_area_small_maxDets_100: 0.6645
+AR_IoU_0.50_0.95_area_medium_maxDets_100: 0.8172
+AR_IoU_0.50_0.95_area_large_maxDets_100: 0.6714
