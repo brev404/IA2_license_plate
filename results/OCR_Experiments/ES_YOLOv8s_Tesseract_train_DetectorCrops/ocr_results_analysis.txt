@@ -1,0 +1,10 @@
+
+--- OCR Results Analysis Summary ---
+Processed results from: ocr_results.json
+Validation Schema Used: ES
+--------------------------------------------------
+Total Plates Processed: 2071
+--------------------------------------------------
+Plate Validation (Format: ES):
+  Valid Format: 91 (4.39%)
+  Invalid Format: 1980 (95.61%)

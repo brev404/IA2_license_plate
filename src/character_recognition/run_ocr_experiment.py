@@ -331,6 +331,17 @@ if __name__ == "__main__":
             "tesseract_whitelist": "BCDFGHJKLMNPQRSTUVWXYZ0123456789", # Adjust if needed for Spanish
             "plate_format_validation": "ES"
         },
+        "exp_es_yolov8s_det_train_tesseract": { # Run detector on Spanish train set & OCR crops
+            "project_root": str(PROJECT_ROOT),
+            "experiment_name": "ES_YOLOv8s_Tesseract_train_DetectorCrops",
+            "dataset_name": "spanish", "split": "train",
+            "crop_source": "detector_output",
+            "detection_model_path": "results/LicensePlateDet/yolov8s_yolo_spanish_lp_e50/weights/best.pt", # UPDATE 'X' to your Spanish run ID
+            "detector_confidence_threshold": 0.4,
+            "ocr_engine": "tesseract",
+            "tesseract_whitelist": "BCDFGHJKLMNPQRSTUVWXYZ0123456789", # Adjust if needed for Spanish
+            "plate_format_validation": "ES"
+        },
             # Add this to your 'experiments' dictionary
         "exp_ro_yolov8n_scratch_det_valid_tesseract": {
             "project_root": str(PROJECT_ROOT),
@@ -367,7 +378,7 @@ if __name__ == "__main__":
     # selected_config_name = "exp_ro_gt_valid_tesseract" # Start with GT crops
     # selected_config_name = "exp_es_gt_test_tesseract"
     # selected_config_name = "exp_ro_yolov8s_det_valid_tesseract" # Test this after RO YOLOv8s training
-    selected_config_name = "exp_ro_yolov8s_transfer_ES_to_RO_det_valid_tesseract" # Test this after ES YOLOv8s training
+    selected_config_name = "exp_es_yolov8s_det_train_tesseract" # Test this after ES YOLOv8s training
 
     if selected_config_name in experiments:
         config_dict_selected = experiments[selected_config_name]
